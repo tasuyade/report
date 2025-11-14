@@ -5,8 +5,8 @@
 
 もし「ここはこうしたほうがいい」などあればIssuesで教えてください．
 
-Issues: https://github.com/tasuyade/report/issues
+[Issues](https://github.com/tasuyade/report/issues)
 
-TeXファイル: https://tasuyade.github.io/report/report.tex
+[TeXファイル](https://tasuyade.github.io/report/report.tex)
 
-pdf: https://tasuyade.github.io/report/report.pdf
+[pdf](https://tasuyade.github.io/report/report.pdf)
