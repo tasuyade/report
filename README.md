@@ -3,10 +3,10 @@
 
 ご自由に使用してどうぞ．**ただし，自己責任です．**(この書き方が合ってるとも言い切れないので)
 
-もし「ここはこうしたほうがいい」などあればIssuesで教えてください．
+もし「ここはこうしたほうがいい」などあれば[Issues](https://github.com/tasuyade/report/issues)で教えてください．
 
-[Issues](https://github.com/tasuyade/report/issues)
+[github](https://github.com/tasuyade/report/)
 
-[TeXファイル](https://tasuyade.github.io/report/report.tex)
+[zipファイル](https://github.com/tasuyade/report/archive/refs/heads/main.zip)
 
 [pdf](https://tasuyade.github.io/report/report.pdf)
